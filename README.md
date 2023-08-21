@@ -2,7 +2,7 @@
 ## Lecture materials and data for the "Introduction to R" workshop, MedILS School in Bioinformatics, August 2023.
 
 ### 1. Slides
-The Introduction_to_R.pdf are the slides supporting the lecture.
+The Introduction_to_R.pdf and Introduction_to_Statistics.pdf are the slides supporting the lectures.
 
 ### 2. Data
 The diabetes_data.xlsx is a slightly modified version of the:
