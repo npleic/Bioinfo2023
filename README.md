@@ -1,5 +1,5 @@
 # Bioinfo2023_Introduction-to-R
-## Lecture materials and data for the "Introduction to R" workshop, MedILS School in Bioinformatics, August 2023.
+## Lecture materials and data for the "Introduction to R" workshop, MedILS School in Bioinformatics, August/October 2023.
 
 ### 1. Slides
 The Introduction_to_R.pdf and Introduction_to_Statistics.pdf are the slides supporting the lectures.
